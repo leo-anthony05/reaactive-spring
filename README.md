@@ -1,5 +1,5 @@
 # Reactive Beer Client
-Using Spring Web Client
+Using Spring Web Client [Spring Guru-2-2]
 
 This repository has examples from my course [Reactive Programming with Spring Framework 5](https://www.udemy.com/reactive-programming-with-spring-framework-5/?couponCode=GITHUB_REPO_SF5B2G)
 
